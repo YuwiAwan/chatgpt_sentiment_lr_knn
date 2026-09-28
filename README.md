@@ -46,3 +46,6 @@ Dua model *supervised learning* dilatih dan dievaluasi dalam penelitian ini:
 > **Kesimpulan Perbandingan:** Berdasarkan metrik evaluasi (Akurasi, *Precision*, *Recall*, dan *F1-Score*), **Logistic Regression** menunjukkan performa yang lebih unggul dan stabil dibandingkan KNN dalam menangani ruang fitur berdimensi tinggi dari ekstraksi teks TF-IDF[cite: 1].
 
 ---
+
+## Implementasi Sistem
+Up coming
