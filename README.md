@@ -11,7 +11,7 @@ Dataset yang digunakan dalam proyek ini diambil dari Kaggle:
 
 ---
 
-## 🛠️ Alur Kerja & Metodologi
+## Alur Kerja & Metodologi
 
 1. **Pengumpulan & Pembersihan Data (*Data Preprocessing & Cleaning*):**
    - Memfilter tweet berbahasa Inggris.
@@ -44,3 +44,5 @@ Dua model *supervised learning* dilatih dan dievaluasi dalam penelitian ini:
    - **Akurasi Model:** **~79.88%**[cite: 1]
 
 > **Kesimpulan Perbandingan:** Berdasarkan metrik evaluasi (Akurasi, *Precision*, *Recall*, dan *F1-Score*), **Logistic Regression** menunjukkan performa yang lebih unggul dan stabil dibandingkan KNN dalam menangani ruang fitur berdimensi tinggi dari ekstraksi teks TF-IDF[cite: 1].
+
+---
